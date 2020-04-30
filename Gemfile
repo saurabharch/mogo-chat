@@ -5,6 +5,6 @@ gem 'sprockets'
 gem 'coffee-script'
 gem 'sass'
 gem 'bourbon'
-gem 'uglifier'
+gem 'uglifier', '>= 2.4.0'
 
 gem 'filewatcher'
