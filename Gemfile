@@ -4,7 +4,7 @@ gem 'rake'
 gem 'sprockets'
 gem 'coffee-script'
 gem 'sass'
-gem 'bourbon'
+gem 'bourbon', '>= 3.2.0'
 gem 'uglifier'
 
 gem 'filewatcher'
